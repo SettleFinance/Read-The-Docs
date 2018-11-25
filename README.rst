@@ -21,5 +21,7 @@ App Tutorials: https://settle.finance/tutorials
 Open Source
 ------------
 JS SDK: https://github.com/SettleFinance/Settle-SDK
+
 Gas Station App: https://github.com/SettleFinance/Gas-Station
+
 Risk Check App: https://github.com/SettleFinance/Risk-Check-Tutorial
